@@ -37,6 +37,7 @@ O seu sistema terá que ser capaz de:
   - O projeto deve atender obrigatoriamente todas as funcionalidades já descritas, porém novas podem ser implementadas sem nenhum problema.
   - Não é preciso fazer hospedagem do sistema.
   - O pull request deve ser feito até o dia, então faça todas as modificações e envie tudo até esta data 
+  - Layout e design não será levado em consideração neste desafio, então não se preocupe.
   
   
   ### Dúvidas:
