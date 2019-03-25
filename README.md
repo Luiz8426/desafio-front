@@ -41,7 +41,9 @@ O seu sistema terá que ser capaz de:
   - Layout e design não será levado em consideração neste desafio, então não se preocupe.
   
   
+  
   ### Dúvidas:
+  Caso haja algum problema ou dúvida durante o desenvolvimento, entre em contato conosco.
   lucas.soares@folhadirigida.com.br
   
   cto@folhadirigida.com.br
