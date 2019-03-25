@@ -1,4 +1,4 @@
-# desafio-front-2019
+# desafio-front-fd-2019
 
 Desafio de criação de um todo-list em qualquer framework web. Seguindo o modelo de funcionalidades descrito.
 
