@@ -8,7 +8,7 @@ Você deverá desenvolver todo o sistema e enviar por um pull request neste repo
 
 ## Tecnologias
 
-Você pode utilizar a linguagem e o framework a sua escolha, porém recomendamos javascript - React.js ou VUE. Pois encaixam perfeitamente em nossa stack de desenvolvimento atual.
+Você pode utilizar a linguagem e o framework a sua escolha, porém recomendamos javascript - **React.js** ou **VUE**. Pois encaixam perfeitamente em nossa stack de desenvolvimento atual.
 
 ## Avaliação
 
