@@ -16,7 +16,7 @@ O seu projeto será avaliado em alguns pontos:
   - Funcionalidades completas
   - Estrutura de código
   - Versionamento pelo GIT
-  - Documento de README do projeto. (readme.txt) com:
+  - Documento de README do projeto com:
     - Todas as funcionalidades do sistema
     - Instruções para que possa ser executado na máquina
     - Tecnologias utilizadas
