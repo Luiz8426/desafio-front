@@ -37,13 +37,14 @@ O seu sistema terá que ser capaz de:
   - Apenas **um** único contribuidor para o projeto. O dono do repositório que fez e enviará para avaliação
   - O projeto deve atender obrigatoriamente todas as funcionalidades já descritas, porém novas podem ser implementadas sem nenhum problema.
   - Não é preciso fazer hospedagem do sistema.
-  - O pull request deve ser feito até o dia, então faça todas as modificações e envie tudo até esta data 
+  - O pull request deve ser feito até o dia 29/03/2019, então faça todas as modificações e envie tudo até esta data 
   - Layout e design não será levado em consideração neste desafio, então não se preocupe.
   
   
   
   ### Dúvidas:
   Caso haja algum problema ou dúvida durante o desenvolvimento, entre em contato conosco.
+  
   lucas.soares@folhadirigida.com.br
   
   cto@folhadirigida.com.br
